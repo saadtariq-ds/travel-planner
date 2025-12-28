@@ -55,8 +55,8 @@ The application leverages **Groq LLM** with **LangChain** for intelligent planni
 # ⚙️ Setup & Run Locally
 ## 1️⃣ Clone
 ```bash
-git clone https://github.com/your-username/medical-rag-chatbot.git
-cd medical-rag-chatbot
+git clone https://github.com/saadtariq-ds/travel-planner.git
+cd travel-planner
 ```
 
 ## 2️⃣ Create virtual environment (recommended)
